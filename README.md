@@ -1,6 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Avishka madhuranga</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
+<br>
+<br>
 - 🌱 I’m currently learning **vuejs,MERN,Angular**
 
 - 📫 How to reach me **avishkagit@gmail.com**
