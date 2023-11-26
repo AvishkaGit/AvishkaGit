@@ -1,6 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Avishka madhuranga</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
+- 🌱 I’m currently learning **vuejs,MERN,Angular**
+
+- 📫 How to reach me **avishkagit@gmail.com**
+
+- ⚡ Fun fact **I think i am funny**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -8,11 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishkagit" alt="avishkagit" /></a> </p>
 
-- 🌱 I’m currently learning **vuejs,MERN,Angular**
 
-- 📫 How to reach me **avishkagit@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
